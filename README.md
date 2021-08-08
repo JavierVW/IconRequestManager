@@ -2,7 +2,7 @@
 
 Simplifying the icon requests for users of the Blueprint Dashboard
 
-#Usage
+# Usage
 
 Developers making use of the Blueprint Dashboard for Android icon packs may be overwhelmed by the amount of requests they receive for new icons. This program allows the user to view their requests by putting all the .xml request files in one folder and displaying the most frequently requested icons.
 
